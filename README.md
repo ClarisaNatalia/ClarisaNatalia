@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning     : C 
+- 🌱 I’m currently learning     : web development 
 
 - 👯 Up from some projects?     : no
 
