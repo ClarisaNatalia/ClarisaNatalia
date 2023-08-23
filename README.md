@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning     : web development 
+- 🌱 I’m passionate in     : software engineer, web development, front end engineer 
 
-- 👯 Up from some projects?     : no
+- 👯 Up from some projects?     : yes
 
-- 🤔 Looking for a job?         : no
+- 🤔 Looking for a job?         : yes
 
-- 📫 How to reach me            : 13519213@std.stei.itb.ac.id
+- 📫 How to reach me            : clarisa_lia@hotmail.com
 
 
 ### GitHub Stats
